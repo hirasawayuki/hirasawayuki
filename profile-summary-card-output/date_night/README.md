@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/hirasawayuki/hirasawayuki/master/profile-summary-card-output/date_night/4-productive-time.svg)
-```
-
-    
